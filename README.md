@@ -5,4 +5,4 @@
 * [Dockerfile](https://github.com/eskvortsova/no_floods_aij/blob/main/Dockerfile) and [forecast.py](https://github.com/eskvortsova/no_floods_aij/blob/main/forecast.py) necessary files to run machine learning code
 *  [Abstract](https://github.com/eskvortsova/no_floods_aij/blob/main/abstract.md) approach description.
 
-As you can see, docker container runs with command line parameters that specifies the start and end of the period of data forecasts.
+Docker container runs with command line parameters that specifies the start and end of the period of data forecasts.
